@@ -1,5 +1,5 @@
 ```
-Offical account of the Tkl project
+Official account of the Tkl project
 ```
 
 
