@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Tensor-kit-learn or Better known as TKL
--I’m looking to collaborate on the "TKL" project
+```
+Hello this is the offical github account for the TKL project
+if you want to get the beta version of tkl please let me know: `tensorkitlearn@gmail.com`
+```
+
 
 <!---
 Tensor-kit-learn/Tensor-kit-learn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
