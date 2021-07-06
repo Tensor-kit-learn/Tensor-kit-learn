@@ -1,6 +1,5 @@
 ```
-Hello this is the offical github account for the TKL project
-if you want to get the beta version of tkl please let me know: `tensorkitlearn@gmail.com`
+Offical account of the Tkl project
 ```
 
 
